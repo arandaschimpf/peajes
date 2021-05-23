@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  booth: one
+  user: one
+  price: one
+  amount: 1.5
+
+two:
+  booth: two
+  user: two
+  price: two
+  amount: 1.5
